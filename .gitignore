@@ -1,7 +1,9 @@
 # Ignore toutes les données
-/Data
+Data/**/*.json
+Data/Simplified_Data
+Data/NPY
 # Sauf les exemples pour tester
-!/Data/Simplified_Minute/*_1.json
+!Data/**/*_1.json
 /.venv
 **__pycache__/
 /.env
