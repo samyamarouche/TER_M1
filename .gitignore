@@ -1,9 +1,8 @@
 # Ignore toutes les données
 /Data
 # Sauf les exemples pour tester
-!/Data/Simplified_Minute/*_0.json
+!/Data/Simplified_Minute/*_1.json
 /.venv
 **__pycache__/
 /.env
 **.DS_Store
-**.pth
